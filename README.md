@@ -1,3 +1,4 @@
-First CS Git Tutorial
 
 Ray Simbiri--simbiri
+
+Uchicago CS Git Tutorial
